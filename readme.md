@@ -1,5 +1,6 @@
-**Fasting**
-![Fasting Spigot Plugin](https://i.imgur.com/JenDEum.png)
+# **Fasting**
+
+![enter image description here](https://i.imgur.com/ltlaNZY.png)
 
 A plugin that disables eating/drinking during certain time ranges
 
@@ -45,3 +46,4 @@ disabled-server-times:
 # If this is an empty string (''), the player won't be sent anything
 disabled-message: '&cYou cannot eat/drink during this time!'
 ```
+Thanks Techdoodle
