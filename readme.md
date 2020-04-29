@@ -1,11 +1,12 @@
 **Fasting**
+![Fasting Spigot Plugin](https://i.imgur.com/JenDEum.png)
 
 A plugin that disables eating/drinking during certain time ranges
 
 Permissions:
- - fasting.cmd.reload\
+ - fasting.cmd.reload
    Permission to reload the config
- - fasting.cmd.check\
+ - fasting.cmd.check
    Permission to check if a player can eat/drink
 
 Commands:
