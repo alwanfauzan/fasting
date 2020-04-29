@@ -1,3 +1,5 @@
+**Fasting**
+
 A plugin that disables eating/drinking during certain time ranges
 
 Permissions:
